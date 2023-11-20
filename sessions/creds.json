@@ -1,1 +1,70 @@
-{"noiseKey":{"private":{"type":"Buffer","data":"aIDFcxOoThLhy+kby0o4BV1YLFIqRrNcJoxFOcONgmo="},"public":{"type":"Buffer","data":"QsSHYly8DjM2Nia8y2S9k5atkH2FBdHxTPWUCIwg93c="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"QL4R9RI/TjXNdIJY9CErHuskVHAEWyH+mOhSslVRsXc="},"public":{"type":"Buffer","data":"OXr05vj0tB3fXxHWktyXC3nLvihlWWoDlrDYzpWlIg4="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"8A1HvCtqXKQZSZz6B5gqcikps6Ls4CVweWz51IHUAVg="},"public":{"type":"Buffer","data":"hXDZ0GlJ4LGftX1zHfc17OmqD7aNcm/2r3Jab6Z/uCc="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"cFVGlMGEBL5Lbft9c0bSxX2W8BmahRUo3qhCtM6vqlQ="},"public":{"type":"Buffer","data":"07QrSfnIR/Jpt4XDcjH2i2i0NhnipebekoEUSWaVOSE="}},"signature":{"type":"Buffer","data":"UKnnttSixR8v2V1vvdjzQT1GVRlCVQH7RWAzOTOtqgNOxvh98LI8e/8SQj7WMCYn5vwpP2r4DxStJI9iQY5aig=="},"keyId":1},"registrationId":239,"advSecretKey":"THjJV1lYqiYfSPhdUYTWRmkBoe2VO5lQzkQ4fIJcuWM=","processedHistoryMessages":[{"key":{"remoteJid":"212774790029@s.whatsapp.net","fromMe":true,"id":"D5FB57EFC55F0D5233AD1B5C0BBFC613"},"messageTimestamp":1698922735},{"key":{"remoteJid":"212774790029@s.whatsapp.net","fromMe":true,"id":"D93C248AE5A9F27C8E91DE3B2897F602"},"messageTimestamp":1698922736},{"key":{"remoteJid":"212774790029@s.whatsapp.net","fromMe":true,"id":"21C046A72133E6D8710179D129281D0F"},"messageTimestamp":1698922741},{"key":{"remoteJid":"212774790029@s.whatsapp.net","fromMe":true,"id":"D5DDC0D1563AAB039C86DD62AE53E83F"},"messageTimestamp":1698922742}],"nextPreKeyId":61,"firstUnuploadedPreKeyId":61,"accountSyncCounter":1,"accountSettings":{"unarchiveChats":false},"deviceId":"RkZTjmYsQ0CjOcFc-WSllg","phoneId":"f7df736c-a965-41f7-a3c0-9b400903ee1a","identityId":{"type":"Buffer","data":"akQZwY9ssZ1CFrb4jRkYjntIxQg="},"registered":true,"backupToken":{"type":"Buffer","data":"aIPyjuTMwzr0JM4jH8RPfC8/8C0="},"registration":{},"pairingCode":"V6ZM4S9N","me":{"id":"212774790029:49@s.whatsapp.net","name":"BOBIZA BOT BY NOUREDDINE"},"account":{"details":"CObyjLsCEOuBjqoGGAI=","accountSignatureKey":"3UYjfeyOmb4s1ni4rsUK0KV53JFKSzXmebRYE7Im9gQ=","accountSignature":"kiO0fKVw0kDVvvD6Ui+WNcbSgjoPCUPOn89xxgg+Mv4xLAONIsgQniRGETpNl5CoXQHZnhglnEUKT1qWhyK2BQ==","deviceSignature":"U1yI87jrtDcVE1d5CL0Zw+Aly3OXuE9ukTVM88A8WkMfdLc7Jb75dgLWbhYEcc8Fe7Mrm4PB/sBPohnF01smiA=="},"signalIdentities":[{"identifier":{"name":"212774790029:49@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"Bd1GI33sjpm+LNZ4uK7FCtCledyRSks15nm0WBOyJvYE"}}],"platform":"android","lastAccountSyncTimestamp":1698922734,"myAppStateKeyId":"AAAAAAG1"}
+	
+noiseKey	
+private	
+type	"Buffer"
+data	"MJhHZvN39Ym3g37UoCZlN9uFnPPD4mrOsOsUqyrQLk8="
+public	
+type	"Buffer"
+data	"Se5URXN1dVu9/QxWMI1HIErNj02Y1S+Dk77ZHF8Hmg4="
+pairingEphemeralKeyPair	
+private	
+type	"Buffer"
+data	"KPI47KjDEPXxB2zwMjnV39K1Uvos0eNyrxAcwpiLg3Q="
+public	
+type	"Buffer"
+data	"TnFSLc3cdvrwYk2e+sT8PVK1jzh0bPMZ3kAjdODt+C0="
+signedIdentityKey	
+private	
+type	"Buffer"
+data	"oNNt791Purjuht+b8bxbrhqiNCBc8k+8UTTx5dHBkFs="
+public	
+type	"Buffer"
+data	"qcBaUDd2+xJGr4PHFsTP53eZJoFsjLx3hoH1/tn0Wwg="
+signedPreKey	
+keyPair	
+private	
+type	"Buffer"
+data	"IG56GR4fJJx8B8aeDsepjrwXdaKJwnciZ/3/hIhw+WM="
+public	
+type	"Buffer"
+data	"CAbDkyKsAjKGt+2UPyaOw17aPj1jWyPLd8UX3FUhXQ4="
+signature	
+type	"Buffer"
+data	"ybFbC2W+Fl+FSdIkZBn7PO9CQzc/snEo2cRJ+IBYYu96VZ4Go061QFJLg+H3w2Aev2rbsUF2916Ij47tSyadBQ=="
+keyId	1
+registrationId	119
+advSecretKey	"gXasnrIej9Foll+PVo5JCnCmGOv7iSKEP+RdiogbXVc="
+processedHistoryMessages	[]
+nextPreKeyId	31
+firstUnuploadedPreKeyId	31
+accountSyncCounter	0
+accountSettings	
+unarchiveChats	false
+deviceId	"ddnjJOqYR5Sfu11JU-Z4vg"
+phoneId	"68d05f4a-0c3c-49c5-bd18-7702e6b5952a"
+identityId	
+type	"Buffer"
+data	"j4we3IFO016+pWtLCpzYgDIzOb4="
+registered	true
+backupToken	
+type	"Buffer"
+data	"GbGgQcmCvDV2Lq5MNU2TVNyewNM="
+registration	{}
+pairingCode	"ACYPAPLQ"
+me	
+id	"62895428261565:5@s.whatsapp.net"
+account	
+details	"CKej4qIDEPjw7KoGGAM="
+accountSignatureKey	"Wk6HXl6CgU+iElDhHi5RK9DwCymZtu/eV0kf48iwezo="
+accountSignature	"Q2d/fdZyLNmuFUwCcCFY3foEGIhdVKHUZvZM1xT/VZqJ90xcg6WORqAJytfo4EcVzFneFTlJQaQlpn6i4PkUBQ=="
+deviceSignature	"nFKtu0b+LNPEDap8Gu4mmTHjL1nJ7tCrzxTaBnGvOyXqHokzJq2RPUZYitcPXGCoBcJZ48GOTYOCaSLq6gjWCg=="
+signalIdentities	
+0	
+identifier	
+name	"62895428261565:5@s.whatsapp.net"
+deviceId	0
+identifierKey	
+type	"Buffer"
+data	"BVpOh15egoFPohJQ4R4uUSvQ8Aspmbbv3ldJH+PIsHs6"
+platform	"android"
+lastAccountSyncTimestamp	1700477050
